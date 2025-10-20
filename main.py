@@ -4,3 +4,5 @@ print(add(2,3))
 
 def greet():
   print('Hello LVLUP')
+
+greet()
